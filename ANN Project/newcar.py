@@ -1,5 +1,4 @@
-# This Code is Heavily Inspired By The YouTuber: Cheesy AI
-# Code Changed, Optimized And Commented By: NeuralNine 
+
 
 import math
 import random
